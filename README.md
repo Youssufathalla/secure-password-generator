@@ -47,7 +47,7 @@ Strength score: 78 / 100
 
 ## Screenshot
 
-![Program Output](screenshots/example-output.png)
+![Program Output](Screenshots/example-output.png)
 
 ## What I Learned
 
