@@ -1,6 +1,6 @@
 # Secure Password Generator
 
-A Python-based secure password generator that creates customizable passwords using cryptographically secure randomness.
+A cybersecurity-focused Python project that generates secure, customizable passwords while applying core security concepts such as cryptographically secure randomness, password complexity, and entropy-based strength analysis.
 
 ## Features
 
